@@ -1,9 +1,9 @@
 # 📋 Sistema de Login con Java Swing y MySQL
 
-- **Aplicación Java Swing** con conexión a MySQL para registro, login y CRUD de usuarios
+- **Video de Explicación**: [Click aquí](https://drive.google.com/file/d/1OeiWCaOr0vQzw6Rd4XF13KESC1BKqAGo/view?usp=sharing)
 - **Autor**: Said De Oleo
-- **Matrícula**: 20241789
-- **Asignatura**: Programación Orientada a Objetos
+- **Matrícula**: 2024-1789
+- **Asignatura**: Programación I
 
 ## 🛠 Tecnologías Utilizadas
 - **Java 17** (JDK)
