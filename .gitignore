@@ -1,0 +1,37 @@
+### IDE ###
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+bin/
+
+### Build/Compilación ###
+*.class
+*.log
+*.ctxt
+*.tmp
+target/
+build/
+.gradle/
+
+### Librerías ###
+src/lib/
+!src/lib/mysql-connector-java-*.jar  # Solo el conector MySQL
+
+### Base de Datos ###
+*.db
+*.sql
+*.bak
+/db/
+
+### Sistema ###
+.DS_Store
+Thumbs.db
+
+### Configuración Sensible ###
+*.properties
+*.cfg
+credentials.*
