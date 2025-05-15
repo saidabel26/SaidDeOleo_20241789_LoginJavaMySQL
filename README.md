@@ -1,6 +1,5 @@
 # 📋 Sistema de Login con Java Swing y MySQL
 
-- **Video de Explicación**: [Click aquí](https://drive.google.com/file/d/1OeiWCaOr0vQzw6Rd4XF13KESC1BKqAGo/view?usp=sharing)
 - **Autor**: Said De Oleo
 - **Matrícula**: 2024-1789
 - **Asignatura**: Programación I
